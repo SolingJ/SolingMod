@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "pattern": [
+    " # ",
+    "###",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "solingg:onigiri",
+    "count": 40
+  }
+}
